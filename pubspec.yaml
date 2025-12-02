@@ -1,0 +1,26 @@
+name: flutter_project_uts
+description: "Aplikasi Kesehatan Flutter UTS"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/maskermedis.png
+    - assets/images/handsanitizer.png
+    - assets/images/multivitamin.png
+    - assets/images/tensimeterdigital.png
+    - assets/images/termometer.png
+    - assets/images/glukometer.png
