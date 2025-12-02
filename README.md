@@ -8,14 +8,14 @@
 
 | Keterangan | Nilai |
 |-----------|-------|
-| Nama | Rizki Abd. Rahman |
-| NIM | 230102118 |
+| Nama | Hilmi Durroh Taqwiyah|
+| NIM | 230102060 |
 | Kelas | IF23B |
 | Mata Kuliah | Pemrograman Perangkat Bergerak |
 | Dosen Pengampu | 1. Fajar Winata S.Kom., M.T. |
 | | 2. Rizky Kharisma N. E. P. S.Tr.Kom., M.T. |
-| Email | ikirahman152@gmail.com |
-| GitHub | [Link GitHub](#) |
+| Email | hilmidt29@gmail.com |
+| GitHub | [https://github.com/HilmiMmott] |
 
 ---
 
@@ -340,8 +340,3 @@ flutter run -d chrome
 | Responsive Design | ✅ |
 | Asset Images | ✅ |
 | Structure Rapi | ✅ |
-
----
-
-**Terakhir diupdate:** Desember 2, 2025
-**Status:** Siap untuk submission ✅
